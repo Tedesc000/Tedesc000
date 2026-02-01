@@ -3,7 +3,7 @@
 Estudante do **Instituto Federal do Rio Grande do Sul (IFRS – Campus Canoas)**  
 Cursando o **3º ano do Técnico em Desenvolvimento de Sistemas**
 
-Tenho maior interesse na área de **Frontend e Web Design**, focando na criação de interfaces modernas e layouts bem estruturados. Busco constantemente aprofundar meus conhecimentos em tecnologias web que me permitam desenvolver aplicações visuais e funcionais.
+Tenho maior interesse na área de **Frontend e Web Design**, focando na criação de **interfaces modernas e layouts bem estruturados**. Busco constantemente aprofundar meus conhecimentos em tecnologias web que me permitam desenvolver **aplicações visuais e funcionais**.
 
 Já programei em:  
 
@@ -34,8 +34,9 @@ Atualmente estou estudando:
 
 ![Instagram](https://img.shields.io/badge/@dutedesco_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Discord](https://img.shields.io/badge/tedesc000_-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Email](https://img.shields.io/badge/eduardo.tedesco19@gmail.com-5865F2?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
-Sempre aberto a aprender coisas novas e evoluir como desenvolvedor!
+**Sempre aberto a aprender coisas novas e evoluir como desenvolvedor!**
 
