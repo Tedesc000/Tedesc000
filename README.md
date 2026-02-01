@@ -30,12 +30,12 @@ Atualmente estou estudando:
 
 ---
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
-📸 Instagram: [@dutedesco_](https://www.instagram.com/dutedesco_)  
-💬 Discord: **tedesc000_**
+![Instagram](https://img.shields.io/badge/@dutedesco_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/tedesc000_-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-⭐ Sempre aberto a aprender coisas novas e evoluir como desenvolvedor.  
+Sempre aberto a aprender coisas novas e evoluir como desenvolvedor!
 
